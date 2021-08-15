@@ -1,6 +1,6 @@
 <!--
-**FabioSFO10 repository
--I'm brazilian native and speak portuguese.
+**FabioSF10 repository
+-I'm brazilian native and I speak portuguese.
 -I'm currently not working on IT, but this is my dream, and I'm student.
 -I feel late, I'm 27 years, I should already be working in the area, but I need opportunity and patience from the contractor.
 -I'm currently learning Python, this tool "gitHub" and english language.
